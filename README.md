@@ -1,4 +1,4 @@
-# practice_8
+# e-commerce dashboard page
 
 A new Flutter project.
 
